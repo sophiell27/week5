@@ -1,0 +1,84 @@
+// margin
+
+.mb-20{
+    margin-bottom: 20px;
+}
+
+.mb-32{
+    margin-bottom: 32px;
+}
+.mt-32{
+    margin-top: 32px;
+}
+.me-32{
+    margin-right: 32px;
+}
+
+// padding
+
+.p-12{
+    padding: 12px;
+}
+.ps-12{
+    padding-left: 12px;
+}
+.py-12{
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+.ps-32{
+    padding-left: 32px;
+}
+.pe-32{
+    padding-right: 32px;
+}
+.pb-32{
+    padding-bottom: 32px;
+}
+.py-32{
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+.px-32{
+    padding-right: 32px;
+    padding-left: 32px;
+}
+
+// font color 
+.font-g-600{
+    color: $g-600;
+}
+.font-g-900{
+    color: $g-900;
+}
+.font-green{
+    color: $green;
+}
+
+
+// font-size
+.fz-12{
+    font-size: 12px;
+}
+
+.fz-14{
+    font-size: 14px;
+}
+.fz-20{
+    font-size: 20px;
+}
+// background
+
+.bg-g-100{
+    background: $g-100;
+}
+
+// border
+
+.border-g-400{
+    border: 1px solid $g-400;
+}
+.border-b-g-400{
+    border-bottom: 1px solid $g-400;
+}

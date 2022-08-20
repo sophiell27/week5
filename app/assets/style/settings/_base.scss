@@ -1,0 +1,30 @@
+
+  *,
+  *::brfore,
+  *::after{
+    box-sizing: border-box;
+  }
+  body{
+    color: $g-900;
+    font-family: 'Lato', 'Roboto Mono', 'monospace', 'sans-serif';
+    line-height: 1.5;
+  }
+  a{
+      color: $g-900;
+      text-decoration: none;
+      line-height: 1.5;
+  }
+  a:hover{
+    color: green;
+  }
+  a.active{
+    color: $green;
+  }
+  img{
+      vertical-align: middle;
+      max-width: 100px;
+      height: auto;
+  }
+  small{
+    font-size: 12px;
+  }
